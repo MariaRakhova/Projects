@@ -20,4 +20,4 @@
   
 
 ## Используемые библиотеки
-*pandas*
+*pandas numpy matplotlib seaborn scikit-learn catboost lightgbm phik*
